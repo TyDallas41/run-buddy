@@ -1,4 +1,4 @@
-# run-buddy
+# Run Buddy, Inc
 
 ## Purpose
 A website that offers fitness trining services
@@ -12,3 +12,5 @@ https://TyDallas41.github.io/run-buddy
 
 ## Contribution
 Made with Love tyler
+
+### 2019 Run Buddy, Inc
